@@ -1,0 +1,5 @@
+# Ignore Python virtual environment and large binaries
+Full_App/env/
+*.dll
+*.lib
+*.pyd
